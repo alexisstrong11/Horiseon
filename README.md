@@ -20,6 +20,7 @@ To access and use my project, click the "Horiseon Website" link shown in the [We
 ![People at table with glasses of water, looking at scattered papers](./assets/images/Homepage.png "homepage")
 - - - - 
 ## **Credits**
+NOTE: *I participated in multiple study groups and received help from the instructor to assist with my  project.*
 
 ### Markdown Reference
 [Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md/ "Markdown Cheatsheet")
